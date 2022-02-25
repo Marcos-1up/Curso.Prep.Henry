@@ -1,0 +1,16 @@
+h1 {
+    color:orangered;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgS5bsefmFZqj87fPjcliklGmcQe6rMkLItw&usqp=CAU);
+    padding: 50px;  
+    border: thick double #ff7300;       
+}
+#spanId {
+    margin: 50px;
+}
